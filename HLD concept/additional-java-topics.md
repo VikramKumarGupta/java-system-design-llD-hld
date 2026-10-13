@@ -1,5 +1,6 @@
 # Additional Java Interview Topics
 
+
 ## Java Memory Model
 
 The Java Memory Model (JMM) defines how threads interact through memory and specifies rules for when changes to variables by one thread become visible to other threads.
